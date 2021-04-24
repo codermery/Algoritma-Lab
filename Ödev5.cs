@@ -1,4 +1,4 @@
-﻿///Meryem KOÇ 201307091 ÖDEV5
+///ÖDEV5
 using System;
 
 namespace Ödev5

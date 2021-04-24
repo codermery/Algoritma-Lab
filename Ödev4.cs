@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace ödev4
 {
@@ -9,7 +9,7 @@ namespace ödev4
         public static void giris()
         {
             Console.WriteLine("*****************************************************************************");
-            Console.WriteLine("Meryem Koç 201307091 Odev4 Ozyinelemeli Fonksiyonlar\n");
+            Console.WriteLine(" Odev4 Ozyinelemeli Fonksiyonlar\n");
             Console.WriteLine("1 - Fibonacci Hesaplama (iteratif) ");
             Console.WriteLine("2 - Fibonacci Hesaplama(özyinelemeli");
             Console.WriteLine("3 - Us alma(özyinelemeli");
