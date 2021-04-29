@@ -1,4 +1,4 @@
-//201307091-Meryem Koç
+
 using System;
 
 namespace ODEV7
